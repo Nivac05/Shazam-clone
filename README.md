@@ -1,4 +1,4 @@
-##SHAZAM CLONE FRONTEND
+## SHAZAM CLONE FRONTEND
 
 ## 🚀 Features
 
@@ -78,3 +78,4 @@ npm start
 💡 Built as part of **frontend practice (Shazam UI learning project)**
 
 ---
+
