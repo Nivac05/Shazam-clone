@@ -34,6 +34,15 @@ Shazam-Clone-Frontend/
 ├── README.md                # Project documentation
 └── tailwind.config.js       # Tailwind setup
 ```
+## 📸 Screenshots  
+
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/ceb7c255-02bc-4605-bc2c-1016610ca812" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/aa2f8ee1-995a-4c0d-828e-55b10cf033d2" />
+</p>
 
 ---
 
@@ -78,4 +87,5 @@ npm start
 💡 Built as part of **frontend practice (Shazam UI learning project)**
 
 ---
+
 
